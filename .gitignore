@@ -1,0 +1,4 @@
+# local scratch
+openalex_works.json
+*.tgz
+.DS_Store
