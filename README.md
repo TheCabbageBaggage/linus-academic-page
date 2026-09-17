@@ -96,3 +96,18 @@ themes; layout, structure, copy and all content were carried over unchanged. Ver
 
 This project was originally developed inside the `openclaw-workspace` monorepo
 (commits `4916677`, `9d261c1`) and extracted here on 2026-09-16.
+
+## Cache-Trap (wichtig)
+
+`linus.cabbagebaggage.net` läuft über Cloudflare mit `cache-control: max-age=14400`
+auf statischen Assets. Der HTML-Response ist `DYNAMIC` (wird nicht gecacht), CSS/Assets schon.
+
+**Das kann die Seite kaputt aussehen lassen:** frischer HTML + alter CSS aus dem Edge/Browser-Cache
+= nicht gemappte CSS-Variablen, falsches Layout. Genau das ist am 2026-09-17 passiert.
+
+**Gegenmaßnahmen (beide aktiv):**
+1. `<link rel="stylesheet" href="style.css?v=YYYYMMDDx">` — Versionsquery bei jeder CSS-Änderung hochzählen.
+2. `./deploy.sh` purged nach jedem Deploy automatisch `CF_API_TOKEN`-basiert den Cloudflare-Cache.
+
+Bei „sieht broken aus": zuerst Cache prüfen, nicht das Layout.
+`curl -sI https://linus.cabbagebaggage.net/style.css | grep cf-cache-status` → muss `MISS` zeigen nach Deploy.
