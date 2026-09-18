@@ -2,3 +2,7 @@
 openalex_works.json
 *.tgz
 .DS_Store
+
+# vertrauliche ACTA-Berichte (PDF/HTML) — nicht in öffentliches Repo
+analysis/acta_reports/
+analysis/__pycache__/
