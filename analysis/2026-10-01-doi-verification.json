@@ -1,0 +1,502 @@
+{
+  "source": "/data/.openclaw/workspace/projects/linus-academic-page/analysis/2026-10-01-executive-essays.md",
+  "total": 46,
+  "ok": 45,
+  "blocked": 0,
+  "rate_limited": 0,
+  "broken": 0,
+  "unverified": 0,
+  "no_url": 1,
+  "essays": [
+    {
+      "essay": "Essay 1 — The Agentic Industrial Enterprise",
+      "references": [
+        {
+          "ref": "Bainbridge, L.",
+          "year": "1983",
+          "doi": "10.1016/0005-1098(83)90046-8",
+          "url": null,
+          "status": "OK",
+          "http": "handle:1",
+          "note": "handle registered",
+          "title": "Ironies of automation"
+        },
+        {
+          "ref": "Brynjolfsson, E., Rock, D., & Syverson, C.",
+          "year": "2021",
+          "doi": "10.1257/mac.20180386",
+          "url": null,
+          "status": "OK",
+          "http": "handle:1",
+          "note": "handle registered",
+          "title": "The Productivity J-Curve: How Intangibles Complement General Purpose Technologies"
+        },
+        {
+          "ref": "Davenport, T. H., & Short, J. E.",
+          "year": "1990",
+          "doi": null,
+          "url": "https://sloanreview.mit.edu/article/the-new-industrial-engineering-information-technology-and-business-process-redesign/",
+          "status": "OK",
+          "http": 200,
+          "note": null,
+          "title": null
+        },
+        {
+          "ref": "Hogan, A., Blomqvist, E., Cochez, M., d’Amato",
+          "year": "2021",
+          "doi": "10.1145/3447772",
+          "url": null,
+          "status": "OK",
+          "http": "handle:1",
+          "note": "handle registered; Crossref-Jahr 2022",
+          "title": "Knowledge Graphs"
+        },
+        {
+          "ref": "Jardine, A. K. S., Lin, D., & Banjevic, D.",
+          "year": "2006",
+          "doi": "10.1016/j.ymssp.2005.09.012",
+          "url": null,
+          "status": "OK",
+          "http": "handle:1",
+          "note": "handle registered",
+          "title": "A review on machinery diagnostics and prognostics implementing condition-based maintenance"
+        },
+        {
+          "ref": "Parasuraman, R., Sheridan, T. B., & Wickens, ",
+          "year": "2000",
+          "doi": "10.1109/3468.844354",
+          "url": null,
+          "status": "OK",
+          "http": "handle:1",
+          "note": "handle registered",
+          "title": "A model for types and levels of human interaction with automation"
+        },
+        {
+          "ref": "Stouffer, K., Pease, M., Tang, C., Zimmerman,",
+          "year": "2023",
+          "doi": "10.6028/NIST.SP.800-82r3",
+          "url": null,
+          "status": "OK",
+          "http": "handle:1",
+          "note": "handle registered",
+          "title": "Guide to Operational Technology (OT) security"
+        },
+        {
+          "ref": "Tabassi, E.",
+          "year": "2023",
+          "doi": "10.6028/NIST.AI.100-1",
+          "url": null,
+          "status": "OK",
+          "http": "handle:1",
+          "note": "handle registered",
+          "title": "Artificial Intelligence Risk Management Framework (AI RMF 1.0)"
+        },
+        {
+          "ref": "Yao, S., Zhao, J., Yu, D., Du, N., Shafran, I",
+          "year": "2023",
+          "doi": null,
+          "url": "https://openreview.net/forum?id=WE_vluYUL-X",
+          "status": "OK",
+          "http": 200,
+          "note": null,
+          "title": null
+        }
+      ]
+    },
+    {
+      "essay": "Essay 2 — Everyone Can Build Software. What Is Corporate IT For?",
+      "references": [
+        {
+          "ref": "Becker, J., Rush, N., Barnes, B., & Rein, D.",
+          "year": "2025",
+          "doi": "10.48550/arXiv.2507.09089",
+          "url": null,
+          "status": "OK",
+          "http": "handle:1",
+          "note": "handle registered",
+          "title": null
+        },
+        {
+          "ref": "Fowler, M.",
+          "year": "2004",
+          "doi": null,
+          "url": "https://martinfowler.com/bliki/StranglerFigApplication.html",
+          "status": "OK",
+          "http": 200,
+          "note": null,
+          "title": null
+        },
+        {
+          "ref": "Pearce, H., Ahmad, B., Tan, B., Dolan-Gavitt,",
+          "year": "2021",
+          "doi": "10.48550/arXiv.2108.09293",
+          "url": null,
+          "status": "OK",
+          "http": "handle:1",
+          "note": "handle registered",
+          "title": null
+        },
+        {
+          "ref": "Peng, S., Kalliamvakou, E., Cihon, P., & Demi",
+          "year": "2023",
+          "doi": "10.48550/arXiv.2302.06590",
+          "url": null,
+          "status": "OK",
+          "http": "handle:1",
+          "note": "handle registered",
+          "title": null
+        },
+        {
+          "ref": "Rose, S., Borchert, O., Mitchell, S., & Conne",
+          "year": "2020",
+          "doi": "10.6028/NIST.SP.800-207",
+          "url": "https://csrc.nist.gov/pubs/sp/800/207/final",
+          "status": "OK",
+          "http": "handle:1",
+          "note": "handle registered",
+          "title": "Zero Trust Architecture"
+        },
+        {
+          "ref": "Souppaya, M., Scarfone, K., & Dodson, D.",
+          "year": "2022",
+          "doi": "10.6028/NIST.SP.800-218",
+          "url": "https://csrc.nist.gov/pubs/sp/800/218/final",
+          "status": "OK",
+          "http": "handle:1",
+          "note": "handle registered",
+          "title": "Secure Software Development Framework (SSDF) version 1.1 :"
+        }
+      ]
+    },
+    {
+      "essay": "Essay 3 — The Factory Manager of 2030 Will Manage Humans and Agents",
+      "references": [
+        {
+          "ref": "Bainbridge, L.",
+          "year": "1983",
+          "doi": "10.1016/0005-1098(83)90046-8",
+          "url": null,
+          "status": "OK",
+          "http": "handle:1",
+          "note": "handle registered",
+          "title": "Ironies of automation"
+        },
+        {
+          "ref": "Edmondson, A.",
+          "year": "1999",
+          "doi": "10.2307/2666999",
+          "url": null,
+          "status": "OK",
+          "http": "handle:1",
+          "note": "handle registered",
+          "title": "Psychological Safety and Learning Behavior in Work Teams"
+        },
+        {
+          "ref": "Endsley, M. R., & Kiris, E. O.",
+          "year": "1995",
+          "doi": "10.1518/001872095779064555",
+          "url": null,
+          "status": "OK",
+          "http": "handle:1",
+          "note": "handle registered",
+          "title": "The Out-of-the-Loop Performance Problem and Level of Control in Automation"
+        },
+        {
+          "ref": "Lee, J. D., & See, K. A.",
+          "year": "2004",
+          "doi": "10.1518/hfes.46.1.50_30392",
+          "url": null,
+          "status": "OK",
+          "http": "handle:1",
+          "note": "handle registered",
+          "title": "Trust in Automation: Designing for Appropriate Reliance"
+        },
+        {
+          "ref": "Onnasch, L., Wickens, C. D., Li, H., & Manzey",
+          "year": "2014",
+          "doi": "10.1177/0018720813501549",
+          "url": null,
+          "status": "OK",
+          "http": "handle:1",
+          "note": "handle registered",
+          "title": "Human Performance Consequences of Stages and Levels of Automation"
+        },
+        {
+          "ref": "Parasuraman, R., Sheridan, T. B., & Wickens, ",
+          "year": "2000",
+          "doi": "10.1109/3468.844354",
+          "url": null,
+          "status": "OK",
+          "http": "handle:1",
+          "note": "handle registered",
+          "title": "A model for types and levels of human interaction with automation"
+        },
+        {
+          "ref": "**Redaktioneller Verifikationshinweis:** Die ",
+          "year": "",
+          "doi": null,
+          "url": null,
+          "status": "NO-URL",
+          "http": null,
+          "note": null,
+          "title": null
+        }
+      ]
+    },
+    {
+      "essay": "Essay 4 — Stop Counting AI Pilots. Measure Decisions.",
+      "references": [
+        {
+          "ref": "Brynjolfsson, E., & Hitt, L. M.",
+          "year": "2000",
+          "doi": "10.1257/jep.14.4.23",
+          "url": null,
+          "status": "OK",
+          "http": "handle:1",
+          "note": "handle registered",
+          "title": "Beyond Computation: Information Technology, Organizational Transformation and Business Performance"
+        },
+        {
+          "ref": "Elkan, C.",
+          "year": "2001",
+          "doi": null,
+          "url": "https://cseweb.ucsd.edu/~elkan/rescale.pdf",
+          "status": "OK",
+          "http": 200,
+          "note": null,
+          "title": null
+        },
+        {
+          "ref": "Hernán, M. A., & Robins, J. M.",
+          "year": "2020",
+          "doi": null,
+          "url": "https://www.hsph.harvard.edu/miguel-hernan/causal-inference-book/",
+          "status": "OK",
+          "http": 200,
+          "note": null,
+          "title": null
+        },
+        {
+          "ref": "Hyndman, R. J., & Koehler, A. B.",
+          "year": "2006",
+          "doi": "10.1016/j.ijforecast.2006.03.001",
+          "url": null,
+          "status": "OK",
+          "http": "handle:1",
+          "note": "handle registered",
+          "title": "Another look at measures of forecast accuracy"
+        },
+        {
+          "ref": "Jardine, A. K. S., Lin, D., & Banjevic, D.",
+          "year": "2006",
+          "doi": "10.1016/j.ymssp.2005.09.012",
+          "url": null,
+          "status": "OK",
+          "http": "handle:1",
+          "note": "handle registered",
+          "title": "A review on machinery diagnostics and prognostics implementing condition-based maintenance"
+        },
+        {
+          "ref": "Kaplan, R. S., & Norton, D. P.",
+          "year": "1992",
+          "doi": null,
+          "url": "https://hbr.org/1992/01/the-balanced-scorecard-measures-that-drive-performance-2",
+          "status": "OK",
+          "http": 200,
+          "note": null,
+          "title": null
+        },
+        {
+          "ref": "Kleinberg, J., Ludwig, J., Mullainathan, S., ",
+          "year": "2015",
+          "doi": "10.1257/aer.p20151023",
+          "url": null,
+          "status": "OK",
+          "http": "handle:1",
+          "note": "handle registered",
+          "title": "Prediction Policy Problems"
+        },
+        {
+          "ref": "Lee, J. D., & See, K. A.",
+          "year": "2004",
+          "doi": "10.1518/hfes.46.1.50_30392",
+          "url": null,
+          "status": "OK",
+          "http": "handle:1",
+          "note": "handle registered",
+          "title": "Trust in Automation: Designing for Appropriate Reliance"
+        },
+        {
+          "ref": "National Institute of Standards and Technolog",
+          "year": "2023",
+          "doi": "10.6028/NIST.AI.100-1",
+          "url": null,
+          "status": "OK",
+          "http": "handle:1",
+          "note": "handle registered",
+          "title": "Artificial Intelligence Risk Management Framework (AI RMF 1.0)"
+        }
+      ]
+    },
+    {
+      "essay": "Essay 5 — Why Industrial AI Needs Memory, Not Another Copilot",
+      "references": [
+        {
+          "ref": "Europäisches Parlament & Rat der Europäischen",
+          "year": "2016",
+          "doi": null,
+          "url": "https://eur-lex.europa.eu/eli/reg/2016/679/oj",
+          "status": "OK",
+          "http": 202,
+          "note": null,
+          "title": null
+        },
+        {
+          "ref": "Hogan, A., Blomqvist, E., Cochez, M., d’Amato",
+          "year": "2021",
+          "doi": "10.1145/3447772",
+          "url": null,
+          "status": "OK",
+          "http": "handle:1",
+          "note": "handle registered; Crossref-Jahr 2022",
+          "title": "Knowledge Graphs"
+        },
+        {
+          "ref": "Jardine, A. K. S., Lin, D., & Banjevic, D.",
+          "year": "2006",
+          "doi": "10.1016/j.ymssp.2005.09.012",
+          "url": null,
+          "status": "OK",
+          "http": "handle:1",
+          "note": "handle registered",
+          "title": "A review on machinery diagnostics and prognostics implementing condition-based maintenance"
+        },
+        {
+          "ref": "Lebo, T., Sahoo, S., & McGuinness, D.",
+          "year": "2013",
+          "doi": null,
+          "url": "https://www.w3.org/TR/prov-o/",
+          "status": "OK",
+          "http": 200,
+          "note": null,
+          "title": null
+        },
+        {
+          "ref": "Lewis, P., Perez, E., Piktus, A., Petroni, F.",
+          "year": "2020",
+          "doi": null,
+          "url": "https://arxiv.org/abs/2005.11401",
+          "status": "OK",
+          "http": 200,
+          "note": null,
+          "title": null
+        },
+        {
+          "ref": "Liu, N. F., Lin, K., Hewitt, J., Paranjape, A",
+          "year": "2024",
+          "doi": "10.1162/tacl_a_00638",
+          "url": null,
+          "status": "OK",
+          "http": "handle:1",
+          "note": "handle registered",
+          "title": "Lost in the Middle: How Language Models Use Long Contexts"
+        },
+        {
+          "ref": "Nonaka, I.",
+          "year": "1994",
+          "doi": "10.1287/orsc.5.1.14",
+          "url": null,
+          "status": "OK",
+          "http": "handle:1",
+          "note": "handle registered",
+          "title": "A Dynamic Theory of Organizational Knowledge Creation"
+        },
+        {
+          "ref": "Tabassi, E.",
+          "year": "2023",
+          "doi": "10.6028/NIST.AI.100-1",
+          "url": null,
+          "status": "OK",
+          "http": "handle:1",
+          "note": "handle registered",
+          "title": "Artificial Intelligence Risk Management Framework (AI RMF 1.0)"
+        },
+        {
+          "ref": "Walsh, J. P., & Ungson, G. R.",
+          "year": "1991",
+          "doi": "10.5465/amr.1991.4278992",
+          "url": null,
+          "status": "OK",
+          "http": "handle:1",
+          "note": "handle registered",
+          "title": "Organizational Memory"
+        }
+      ]
+    },
+    {
+      "essay": "Essay 6 — From Digital Transformation to Industrial Transformation",
+      "references": [
+        {
+          "ref": "Brynjolfsson, E., & Hitt, L. M.",
+          "year": "2000",
+          "doi": "10.1257/jep.14.4.23",
+          "url": null,
+          "status": "OK",
+          "http": "handle:1",
+          "note": "handle registered",
+          "title": "Beyond Computation: Information Technology, Organizational Transformation and Business Performance"
+        },
+        {
+          "ref": "Frank, A. G., Dalenogare, L. S., & Ayala, N. ",
+          "year": "2019",
+          "doi": "10.1016/j.ijpe.2019.01.004",
+          "url": null,
+          "status": "OK",
+          "http": "handle:1",
+          "note": "handle registered",
+          "title": "Industry 4.0 technologies: Implementation patterns in manufacturing companies"
+        },
+        {
+          "ref": "Lee, H. L., Padmanabhan, V., & Whang, S.",
+          "year": "1997",
+          "doi": "10.1287/mnsc.43.4.546",
+          "url": null,
+          "status": "OK",
+          "http": "handle:1",
+          "note": "handle registered",
+          "title": "Information Distortion in a Supply Chain: The Bullwhip Effect"
+        },
+        {
+          "ref": "Little, J. D. C.",
+          "year": "1961",
+          "doi": "10.1287/opre.9.3.383",
+          "url": null,
+          "status": "OK",
+          "http": "handle:1",
+          "note": "handle registered",
+          "title": "A Proof for the Queuing Formula:\n                    <i>L</i>\n                    = λ\n                    <i>W</i>"
+        },
+        {
+          "ref": "Muchiri, P., & Pintelon, L.",
+          "year": "2008",
+          "doi": "10.1080/00207540601142645",
+          "url": null,
+          "status": "OK",
+          "http": "handle:1",
+          "note": "handle registered",
+          "title": "Performance measurement using overall equipment effectiveness (OEE): literature review and practical application discuss"
+        },
+        {
+          "ref": "Thomé, A. M. T., Scavarda, L. F., Fernandez, ",
+          "year": "2012",
+          "doi": "10.1016/j.ijpe.2011.11.027",
+          "url": null,
+          "status": "OK",
+          "http": "handle:1",
+          "note": "handle registered",
+          "title": "Sales and operations planning: A research synthesis"
+        }
+      ]
+    }
+  ]
+}
